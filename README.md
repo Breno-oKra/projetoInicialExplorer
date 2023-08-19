@@ -17,5 +17,5 @@ projeto desenvolvido no explorer da rocketseat
 ## 💻 Projeto Fotos
 
 <p align="center">
- <img width="200px" alt="tema dark escuro" src="./images//img-project.png" />
+ <img width="400px" alt="tema dark escuro" src="./images//img-project.png" />
 </p>
